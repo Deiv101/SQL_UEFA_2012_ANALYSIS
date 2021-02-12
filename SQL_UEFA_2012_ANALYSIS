@@ -2,7 +2,7 @@
 
 SELECT matchid, player 
  FROM goal  
-  WHERE teamid LIKE '%GER'  
+  WHERE teamid LIKE '%GER'   
     
 Correct answer 
    
