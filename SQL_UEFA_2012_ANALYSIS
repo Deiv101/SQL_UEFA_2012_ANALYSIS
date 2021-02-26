@@ -6,7 +6,7 @@ SELECT matchid, player
          
 Correct answer  
    
-matchid | player    
+matchid | player     
 -------------------------
 1008	   | Mario Gómez
 1010   	| Mario Gómez
